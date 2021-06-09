@@ -4,6 +4,8 @@ In this app, A web developer created a web application with HTML and CSS. I refa
 
 ##  Deployed Link
 
+[Refactored Code](https://swefuture20.github.io/CodeRefactor/)
+
 ## Contact
 
 Latifah Lillie
