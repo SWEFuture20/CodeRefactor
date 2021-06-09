@@ -1,6 +1,6 @@
 # CodeRefactor
 
-In this app, A web developer created a web application with HTML and CSS. I refactor the original application by condense repeated code in HTML and the styling sheet (CSS).
+In this app, A web developer created a web application with HTML and CSS. I refactor the original application by condensing repeated code in HTML and the styling sheet (CSS).
 
 ##  Deployed Link
 
